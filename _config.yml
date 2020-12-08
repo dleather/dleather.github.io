@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Leather / David Leather"
+title                    : "David Leather"
 title_separator          : "-"
 name                     : &name "David Leather"
 description              : &description "My personal website."
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "David Leather"
-  avatar           : "profile.png"
-  bio              : "Under Construction"
-  location         : "Costa Mesa, CA"
+  avatar           : "headshot.jpg"
+  bio              : "Assistant Professor of Finance and Real Estate @ the Argyros School of Business and Economics."
+  location         : "Orange, CA"
   employer         : "Chapman University"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lAUyG50AAAAJ&hl=en"
   email            : "leather@chapman.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/David_Leather3"
   uri              :
   bitbucket        :
   codepen          :
