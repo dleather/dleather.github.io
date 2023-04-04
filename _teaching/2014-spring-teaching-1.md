@@ -8,13 +8,6 @@ date: 2022-01-01
 location: "Orange, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The goal of this course is for students to gain an understanding of the variety of economic decisions that are made by participants in real estate markets. The course is composed of two-parts: the first part focuses on understanding real estate as an asset class, and the decisions faced by institutions who hold large portfolios of real estate. The second part of the course introduces students to social challenges faced by real estate markets today, with a focus on bridging the perspectives of society-at-large, and state-of-the-art research undertaken by economists who study real estate markets.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Years taught: 2021, 2022, 2023
