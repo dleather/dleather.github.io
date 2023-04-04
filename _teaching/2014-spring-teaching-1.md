@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: 
 venue: "Argyros School of Business and Economics; Chapman University"
-date: 2023-01-01
+date: 2023-01-01, 2022-01-01
 location: "Orange, CA"
 ---
 
