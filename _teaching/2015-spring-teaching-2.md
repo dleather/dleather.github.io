@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Macroeconomics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Argyros School of Business and Economics, Chapman University"
+date: 2023-01-01
+location: "Orange, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+An introductory course in macroeconomics. Course objectives:
 
-Heading 1
-======
+1. Understand basic principles of economics, and be able to apply them to real-world examples.
+2. Analyze and interpret economic graphs.
+3. Understand the institutions involved in the macroeconomy, their incentives, and the aggregate measurements that guide them.
+4. Analyze macroeconomic policies in an equilibrium framework.
 
-Heading 2
-======
-
-Heading 3
-======
+Years Taught: 2021, 2022, 2023
