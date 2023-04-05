@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+\ \
 
 I am an Assistant Professor of Finance and Real Estate at the Argyros School of Business and Economics, Chapman University. 
 
