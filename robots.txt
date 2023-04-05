@@ -1,0 +1,4 @@
+Sitemap: https://www.daveleather.com/sitemap.xml
+
+User-agent: *
+Disallow:
