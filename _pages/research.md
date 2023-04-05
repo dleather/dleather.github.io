@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Works In Progress
+## Works In Progress
 
 [**Is America’s Housing Affordability Problem a Housing Problem?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761305) (with [Andra Ghent](http://www.andraghent.com/))
 \

@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Chapman University
+## Chapman University
 - **Real Estate Economics** (M.S. in Real Estate), Instructor, 2021-23
 - **Introduction to Macroeconomics** (Bachelor), Instructor, 2021-23
 
-### University of North Carolina at Chapel Hill
+## University of North Carolina at Chapel Hill
 - **Intermediate Macroeconomics** (Bachelor), Instructor, 2017
 - **Introduction to Economics** (Bachelor), Instructor, 2016
 - **Real Estate Macro and Security Markets** (MBA), Assistant for Prof. Jacob Sagi, 2020
