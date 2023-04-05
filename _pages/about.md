@@ -7,4 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Thank you for arriving at my personal website. This site will serve as a hub for information regarding my research and teaching.
+
+I am an Assistant Professor of Finance and Real Estate at the Argyros School of Business and Economics, Chapman University. 
+
+My research interests include real estate markets, macro-finance, and monetary policy.
+
+Contact: leather[at]chapman.edu (Please replace [at] with @.)
