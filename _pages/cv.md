@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to CV](cv_022023.pdf)
+[Link to CV](cv_082023.pdf)
