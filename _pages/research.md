@@ -19,7 +19,7 @@ We document what fraction of the housing stock in US cities is affordable to dif
 
 We incorporate uncertainty surrounding future land-use restrictions to empirically assess the option value of redevelopment embedded in real estate prices for New York City (NYC) from 2003-2015. Using a two-stage estimation procedure, we interact predicted probabilities of land-use (re)zoning to either residential, commercial or manufacturing with an additional proxy for the property’s redevelopment propensity. Over the period spanning 2003 to 2015, estimates of the average option value to redevelop in Manhattan and Brooklyn are 20% and 8.5% of total estimated property value, respectively. There is also evidence that manufacturing lots identified as likely to be rezoned by the model sell at an average premium of 50% per square foot. Lastly, we find evidence consistent with the hypothesis that the redevelopment option value is counter-cyclical
 
-[**Affordability in Purpose-Built Student Housing**](with [Jack Liebersohn](https://www.jackliebersohn.com/) and Jason Lee)
+**Affordability in Purpose-Built Student Housing** (with [Jack Liebersohn](https://www.jackliebersohn.com/) and Jason Lee)
 \
 **Draft Available Soon**
 
@@ -28,5 +28,7 @@ From 2013-2020, real rent per bed for purpose-built student housing has increase
 ## Research in Progress
 
 **Macro Fundamentals & Commercial Real Estate Price Dynamics** (with [Jacob Sagi](http://public.kenan-flagler.unc.edu/faculty/sagij/))
-**Bunching in Real-Estate Markets: The Case of Regulated Building Heights**(with [Jan Brueckner](https://sites.socsci.uci.edu/~jkbrueck/) and [Miquel Zerocero](https://mzerecero.netlify.app/))
+
+**Bunching in Real-Estate Markets: The Case of Regulated Building Heights** (with [Jan Brueckner](https://sites.socsci.uci.edu/~jkbrueck/) and [Miquel Zerocero](https://mzerecero.netlify.app/))
+
 **Landlord Concentration and Rent** (with [Jack Liebersohn](https://www.jackliebersohn.com/))
