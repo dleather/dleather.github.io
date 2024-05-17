@@ -35,6 +35,4 @@ From 2013-2020, real rent per bed for purpose-built student housing has increase
 
 **Macro Fundamentals & Commercial Real Estate Price Dynamics** (with [Jacob Sagi](http://public.kenan-flagler.unc.edu/faculty/sagij/))
 
-**Bunching in Real-Estate Markets: The Case of Regulated Building Heights** (with [Jan Brueckner](https://sites.socsci.uci.edu/~jkbrueck/) and [Miquel Zerocero](https://mzerecero.netlify.app/))
-
 **Landlord Concentration and Rent** (with [Jack Liebersohn](https://www.jackliebersohn.com/))
