@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 [**Bunching in Real-Estate Markets: Regulated Building Heights in New York City**](https://sites.socsci.uci.edu/~jkbrueck/FAR_bunching.pdf) (with Jan Brueckner and Miguel Zerecero)
-**First Revision Under Review at Journal of Urban Economics**
+**Conditionally Accepted at Journal of Urban Economics**
 
 This paper presents a rare application in the real-estate context of the bunching methodology widely used in other areas of applied microeonomics. The application is building-height regulation in New York City, where several costly actions allow a developer to exceed the regulated height for his parcel. The paper aims to use the observed bunching pattern near a regulated height to estimate the marginal-cost penalty for exceeding that height, thus capturing the size of the cost-function kink faced by developers. Our approach reverses the usual application of the bunching methodology, under which the kink size (often the increment to a marginal tax rate) is known and the goal is to estimate a behavioral parameter (often a labor-supply elasticity). By contrast, our behavioral parameter (the exponent in a housing production function) has been reliably estimated, and we use its value to identify the unknown size of a cost-function kink. We also use our estimates to predict the increase in floor space in our sample that would result from eliminating height regulation
 
