@@ -7,10 +7,10 @@ author_profile: true
 ## Publications
 
 
-[**Bunching in Real-Estate Markets: Regulated Building Heights in New York City**](https://sites.socsci.uci.edu/~jkbrueck/FAR_bunching.pdf) (with Jan Brueckner and Miguel Zerecero)
+[**Bunching in Real-Estate Markets: Regulated Building Heights in New York City**](https://sites.socsci.uci.edu/~jkbrueck/FAR_bunching.pdf](https://doi.org/10.1016/j.jue.2024.103683) (with Jan Brueckner and Miguel Zerecero)
 **Journal of Urban Economics** 2024
 
-This paper presents a rare application in the real-estate context of the bunching methodology widely used in other areas of applied microeonomics. The application is building-height regulation in New York City, where several costly actions allow a developer to exceed the regulated height for his parcel. The paper aims to use the observed bunching pattern near a regulated height to estimate the marginal-cost penalty for exceeding that height, thus capturing the size of the cost-function kink faced by developers. Our approach reverses the usual application of the bunching methodology, under which the kink size (often the increment to a marginal tax rate) is known and the goal is to estimate a behavioral parameter (often a labor-supply elasticity). By contrast, our behavioral parameter (the exponent in a housing production function) has been reliably estimated, and we use its value to identify the unknown size of a cost-function kink. We also use our estimates to predict the increase in floor space in our sample that would result from eliminating height regulation
+This paper presents a real-estate application of the bunching methodology widely used in other areas of applied microeconomics. The focus is on regulated building heights in New York City, where developers can exceed a parcel’s regulated height by incurring additional costs. Using the bunching methodology, we estimate the magnitude of these extra costs, with the results showing a modest increase in the marginal cost of floor space beyond the regulated building height. We use these estimates to predict the additional floor space that would be created by complete removal of building-height regulation in NYC. While this last exercise is circumscribed by our focus on a limited number of zoning categories, the results suggest that New York could secure notably more housing through lighter height regulation.
 
 ## Working Papers
 
