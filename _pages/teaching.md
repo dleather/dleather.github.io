@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Chapman University
-- **Real Estate Economics** (M.S. in Real Estate), Instructor, 2021-23
-- **Introduction to Macroeconomics** (Bachelor), Instructor, 2021-23
+- **Real Estate Economics** (M.S. in Real Estate), Instructor, 2021-24
+- **Introduction to Macroeconomics** (Bachelor), Instructor, 2021-24
 
 ## University of North Carolina at Chapel Hill
 - **Intermediate Macroeconomics** (Bachelor), Instructor, 2017
