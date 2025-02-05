@@ -5,8 +5,10 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: dark  # Force dark mode instead of system default
+  color: blue  # Changed from emerald to ocean (blue tones)
+  font: "sans-serif"  # Clean modern font
+  font_size: "L"  # Increased font size from M to L
 
 # SEO
 marketing:
@@ -14,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Personal website of David Leather, Assistant Professor of Real Estate and Finance at Chapman University.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "David Leather"
 
 # Site footer
 footer:
