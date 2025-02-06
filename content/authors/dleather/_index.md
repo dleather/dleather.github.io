@@ -180,4 +180,4 @@ I'm currently an Assistant Professor of Real Estate and Finance at Chapman Unive
 
 Recently I have investigated student housing markets in the United States, and the impact of height regulations on the supply of residential real estate in New York City.
 
-Please reach out to collaborate 😃
+Please reach out to collaborate at david.a.leather [at] gmail [dot] com 😃
