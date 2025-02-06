@@ -5,9 +5,9 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_c34f9611bd9d3e81.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
@@ -33,6 +33,14 @@
       <link>http://localhost:1313/publication/redevelopment_space_time/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/redevelopment_space_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is America’s Housing Affordability Problem a Housing Problem?</title>
+      <link>http://localhost:1313/publication/affordable_housing/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/affordable_housing/</guid>
       <description></description>
     </item>
     

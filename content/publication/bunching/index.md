@@ -20,7 +20,6 @@ tags:
   - FAR
 featured: true
 links:
-  - url: https://doi.org/10.1016/j.jue.2024.103683
 url_pdf: https://doi.org/10.1016/j.jue.2024.103683
 url_code: 'https://github.com/dleather/brueckner-leather-zerecero-2024'
 ---

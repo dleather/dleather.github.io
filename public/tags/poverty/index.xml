@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poverty | David Leather</title>
+    <link>http://localhost:1313/tags/poverty/</link>
+      <atom:link href="http://localhost:1313/tags/poverty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poverty</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_c34f9611bd9d3e81.png</url>
+      <title>Poverty</title>
+      <link>http://localhost:1313/tags/poverty/</link>
+    </image>
+    
+    <item>
+      <title>Is America’s Housing Affordability Problem a Housing Problem?</title>
+      <link>http://localhost:1313/publication/affordable_housing/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/affordable_housing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

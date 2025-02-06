@@ -7,37 +7,18 @@
     <description>Nonlinear Systems</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_c34f9611bd9d3e81.png</url>
       <title>Nonlinear Systems</title>
       <link>http://localhost:1313/tags/nonlinear-systems/</link>
     </image>
     
     <item>
       <title>QuadraticKalman.jl</title>
-      <link>http://localhost:1313/project/quadratickalman/</link>
+      <link>http://localhost:1313/featured_projects/quadratickalman/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/quadratickalman/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;QuadraticKalman.jl&lt;/strong&gt; is a Julia package for nonlinear state estimation using quadratic approximations of the Kalman filter. It extends traditional Kalman filtering techniques to handle nonlinearity in dynamic systems, making it a powerful tool for applications in finance, engineering, and scientific computing.&lt;/p&gt;
-&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Quadratic Kalman Filtering:&lt;/strong&gt; Implements second-order approximations for improved accuracy in nonlinear state estimation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Flexible Model Specification:&lt;/strong&gt; Supports user-defined state-space models with nonlinear dynamics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Efficient Computation:&lt;/strong&gt; Leverages Julia’s speed and automatic differentiation to compute gradients and Hessians efficiently.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Time-Series Applications:&lt;/strong&gt; Suitable for filtering, smoothing, and forecasting in econometrics, engineering, and physics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Modular and Extendable:&lt;/strong&gt; Designed with flexibility in mind to allow easy adaptation to domain-specific problems.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;why-quadratickalmanjl&#34;&gt;Why QuadraticKalman.jl?&lt;/h3&gt;
-&lt;p&gt;Unlike standard Extended Kalman Filters (EKF) or Unscented Kalman Filters (UKF), QuadraticKalman.jl captures higher-order dynamics without relying on sample-based approximations. This results in more accurate state estimates for highly nonlinear processes.&lt;/p&gt;
-&lt;h3 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Financial Modeling:&lt;/strong&gt; Estimating latent factors in asset pricing and risk modeling.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Engineering Systems:&lt;/strong&gt; Sensor fusion, robotics, and control applications.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Climate and Environmental Science:&lt;/strong&gt; Data assimilation for geophysical models.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Neuroscience &amp;amp; Biomedicine:&lt;/strong&gt; Tracking hidden states in neural or physiological data.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;about-the-developer&#34;&gt;About the Developer&lt;/h3&gt;
-&lt;p&gt;QuadraticKalman.jl is developed by &lt;a href=&#34;https://github.com/dleather&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Leather&lt;/a&gt;, a finance professor and quantitative researcher with expertise in econometrics, machine learning, and nonlinear state-space modeling.&lt;/p&gt;
-&lt;p&gt;🔗 &lt;strong&gt;&lt;a href=&#34;https://github.com/dleather/QuadraticKalman.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/featured_projects/quadratickalman/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;QuadraticKalman.jl&lt;/strong&gt; is a publically availableJulia package for filtering and smoothing state-space models with quadratic measurement equations. The package implements an augmented state-space approach that converts nonlinear quadratic terms into a linear system by tracking both first and second moments. This allows exact filtering up to second moments while using standard Kalman filter recursions. The package provides efficient implementations of filtering, smoothing, likelihood evaluation, and parameter estimation for these models. Key features include support for autoregressive measurements, automatic differentiation for optimization, visualization tools, and numerically stable implementations that are significantly faster than existing alternatives.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

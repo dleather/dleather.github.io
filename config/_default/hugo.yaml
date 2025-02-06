@@ -23,8 +23,9 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: false
-summaryLength: 30
+  minify: true
+enableGitInfo: true
+summaryLength: 70
 pagination:
   pagerSize: 10
 enableEmoji: true
@@ -39,8 +40,8 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 80
-  anchor: smart
+  quality: 90
+  anchor: center
 timeout: 600000
 taxonomies:
   author: authors
@@ -54,3 +55,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+noUglyURLs: true
