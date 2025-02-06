@@ -6,7 +6,7 @@
 # Website name
 title: David Leather
 # Website URL
-baseURL: 'https://daveleather.com/'
+baseURL: 'https://www.daveleather.com/'
 
 ############################
 ## LANGUAGE
@@ -25,6 +25,7 @@ build:
   writeStats: true
   minify: true
 enableGitInfo: true
+canonifyURLs: true
 summaryLength: 70
 pagination:
   pagerSize: 10
