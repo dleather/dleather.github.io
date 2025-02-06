@@ -1,8 +1,8 @@
 ---
 title: "Is America’s Housing Affordability Problem a Housing Problem?"
 authors:
-  - David Leather
   - Andra C. Ghent
+  - David Leather
 date: "2021-08-01T00:00:00Z"
 publishDate: "2021-08-01T00:00:00Z"
 type: "Working Paper"
