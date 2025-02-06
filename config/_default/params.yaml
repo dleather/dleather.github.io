@@ -42,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} David Leather. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -60,3 +60,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Add this section for favicon configuration
+icon:
+  icon_pack: custom
+  icon_path: media/favicon.ico
