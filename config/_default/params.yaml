@@ -60,8 +60,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# Add this section for favicon configuration
-icon:
-  icon_pack: custom
-  icon_path: media/favicon.ico

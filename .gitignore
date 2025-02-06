@@ -1,0 +1,26 @@
+# Hugo build output (generated site files)
+public/
+
+# Hugo resource cache and cached assets
+resources/
+.hugo_cache/
+
+# Node.js dependencies (if you use npm for tooling like pagefind)
+node_modules/
+
+# Directory for any bundled assets if available
+dist/
+tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor temporary files and configurations
+*.swp
+*.swo
+*.tmp
+
+# IDE folders (uncomment if you use these editors)
+.vscode/
+.idea/

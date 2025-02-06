@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Leather's Personal Website
+title: David Leather
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
