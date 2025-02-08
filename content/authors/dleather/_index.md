@@ -9,6 +9,8 @@ title: David Leather
 first_name: David
 last_name: Leather
 
+toc: false
+
 # Status emoji
 status:
   icon:
