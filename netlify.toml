@@ -1,6 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
   publish = "public"
+  functions = "netlify/functions"
 
 [build.environment]
   HUGO_VERSION = "0.136.5"
