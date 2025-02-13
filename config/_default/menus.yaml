@@ -12,9 +12,6 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Contact
-    url: '#contact'
-    weight: 40
-  - name: CV
+  - name: Resume
     url: uploads/dleather-cv.pdf
-    weight: 50
+    weight: 40
